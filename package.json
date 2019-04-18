@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "checkdependencyb": "^1.0.2"
+    "checkdependencyb": "^1.0.5"
   }
 }
